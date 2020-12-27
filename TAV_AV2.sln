@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAV_AV2", "TAV_AV2\TAV_AV2.csproj", "{467EC6C3-B117-47FB-8D27-5C988E4438AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAV_AV2_TESTS", "TAV_AV2_TESTS\TAV_AV2_TESTS.csproj", "{A8515801-1F78-45AC-93C3-0A6D4E44AD03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{467EC6C3-B117-47FB-8D27-5C988E4438AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{467EC6C3-B117-47FB-8D27-5C988E4438AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{467EC6C3-B117-47FB-8D27-5C988E4438AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{467EC6C3-B117-47FB-8D27-5C988E4438AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8515801-1F78-45AC-93C3-0A6D4E44AD03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8515801-1F78-45AC-93C3-0A6D4E44AD03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8515801-1F78-45AC-93C3-0A6D4E44AD03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8515801-1F78-45AC-93C3-0A6D4E44AD03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C420D5D-9FA0-4551-ADE4-1199A19F2C30}
+	EndGlobalSection
+EndGlobal
